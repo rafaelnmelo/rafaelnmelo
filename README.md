@@ -1,7 +1,7 @@
 # Olá, meu nome é Rafael Melo ! 
 ## Bem vindo ao meu GitHub 🤗
 
-![Snake animation](https://github.com/rafaelnmelo/rafaelnmelo/blob/output/github-contribution-grid-snake.svg)
+![image](https://media.tenor.com/p0kz7NOqxTkAAAAd/kaito-typing.gif)
 
 ## Meu status atual
 - 🔍 Atualmente estou buscando recolocação no mercado
@@ -10,10 +10,11 @@
 - ⚡ Curiosidade: Meu primeiro contato com programação foi na faculdade com 26 anos
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  width="40" height="40"/>
-<img src="https://git-fork.com/images/logo.png"  width="40" height="40"/>
+<div>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
+</div>
 
 ## Como me contatar
 <div>
