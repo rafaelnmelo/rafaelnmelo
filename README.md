@@ -7,7 +7,8 @@
 - 🔍 Atualmente estou buscando recolocação no mercado
 - 🌱 Atualmente estou aprendendo programação reativa e arquitetura limpa
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Meu primeiro contato com programação foi na faculdade com 26 anos
+- ⚡ Curiosidade I  : Meu primeiro contato com programação foi na faculdade com 26 anos
+- ⚡ Curiosidade II : Por não possuir meios de ter um Mac da Apple construi um Hackintosh para estudar Swift
 
 ## Ferramentas e Tecnologias
 <div>
