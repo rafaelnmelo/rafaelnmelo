@@ -5,7 +5,7 @@
 
 ## Meu status atual
 - 🔍 Atualmente estou buscando recolocação no mercado
-- 🌱 Atualmente estou aprendendo programação reativa e arquitetura limpa
+- 🌱 Atualmente estou estudando programação reativa, padrões de design e SwiftUI
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade I  : Meu primeiro contato com programação foi na faculdade com 26 anos
 - ⚡ Curiosidade II : Por não possuir meios de ter um Mac da Apple construi um Hackintosh para estudar Swift
