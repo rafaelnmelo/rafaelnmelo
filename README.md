@@ -1,4 +1,4 @@
-## bem vindo ao gitHub do rafa 🤗
+## bem vindo ao meu gitHub 🤗
 
 ![image](https://media.tenor.com/p0kz7NOqxTkAAAAd/kaito-typing.gif)
 
